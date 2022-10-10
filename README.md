@@ -2,12 +2,10 @@
 
 https://github.com/encrypted-def/basic-algo-lecture  
 [유튜브에 바킹독 채널](https://www.youtube.com/c/BaaarkingDog)에 강의도 있음.  
-깃헙가보면 알겠지만 마크다운 문서 제목이 강의 번호로되어있음.  
-일일이 클릭해서 무슨단원인지 확인하기 귀찮기 때문에 링크 모음 정리
 
 # BFS
 
-![100%](https://progress-bar.dev/29/?scale=30&title=progress&width=500&color=babaca&suffix=/30)
+![100%](https://progress-bar.dev/0/?scale=30&title=progress&width=500&color=babaca&suffix=/30)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7313)
 
@@ -46,7 +44,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 # 재귀
 
-![100%](https://progress-bar.dev/10/?scale=10&title=progress&width=500&color=babaca&suffix=/10)
+![100%](https://progress-bar.dev/0/?scale=10&title=progress&width=500&color=babaca&suffix=/10)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7314)
 
@@ -65,7 +63,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 # 백트래킹
 
-![100%](https://progress-bar.dev/20/?scale=20&title=progress&width=500&color=babaca&suffix=/20)
+![100%](https://progress-bar.dev/0/?scale=20&title=progress&width=500&color=babaca&suffix=/20)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7315)
 
@@ -94,7 +92,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 # 시뮬레이션
 
-![100%](https://progress-bar.dev/32/?scale=60&title=progress&width=500&color=babaca&suffix=/60)
+![100%](https://progress-bar.dev/0/?scale=60&title=progress&width=500&color=babaca&suffix=/60)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7316)
 
@@ -163,7 +161,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 # 정렬 I
 
-![100%](https://progress-bar.dev/8/?scale=8&title=progress&width=500&color=babaca&suffix=/8)
+![100%](https://progress-bar.dev/0/?scale=8&title=progress&width=500&color=babaca&suffix=/8)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7317)
 
@@ -198,7 +196,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 # 다이나믹 프로그래밍
 
-![100%](https://progress-bar.dev/43/?scale=44&title=progress&width=500&color=babaca&suffix=/44)
+![100%](https://progress-bar.dev/0/?scale=44&title=progress&width=500&color=babaca&suffix=/44)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7319)
 
@@ -251,7 +249,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 # 그리디
 
-![100%](https://progress-bar.dev/17/?scale=17&title=progress&width=500&color=babaca&suffix=/17)
+![100%](https://progress-bar.dev/0/?scale=17&title=progress&width=500&color=babaca&suffix=/17)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7320)
 
@@ -277,7 +275,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 # 이분탐색
 
-![100%](https://progress-bar.dev/12/?scale=21&title=progress&width=500&color=babaca&suffix=/21)
+![100%](https://progress-bar.dev/0/?scale=21&title=progress&width=500&color=babaca&suffix=/21)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/8400)
 
@@ -307,7 +305,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 # 투 포인터
 
-![100%](https://progress-bar.dev/8/?scale=11&title=progress&width=500&color=babaca&suffix=/11)
+![100%](https://progress-bar.dev/0/?scale=11&title=progress&width=500&color=babaca&suffix=/11)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/8709)
 
@@ -327,7 +325,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 # 해시
 
-![100%](https://progress-bar.dev/7/?scale=10&title=progress&width=500&color=babaca&suffix=/10)
+![100%](https://progress-bar.dev/0/?scale=10&title=progress&width=500&color=babaca&suffix=/10)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/9063)
 
@@ -346,7 +344,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 # 이진 검색 트리
 
-![100%](https://progress-bar.dev/5/?scale=7&title=progress&width=500&color=babaca&suffix=/7)
+![100%](https://progress-bar.dev/0/?scale=7&title=progress&width=500&color=babaca&suffix=/7)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/9346)
 
@@ -362,7 +360,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 # 우선순위 큐
 
-![100%](https://progress-bar.dev/2/?scale=8&title=progress&width=500&color=babaca&suffix=/8)
+![100%](https://progress-bar.dev/0/?scale=8&title=progress&width=500&color=babaca&suffix=/8)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/9502)
 
@@ -379,7 +377,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 # 그래프
 
-![100%](https://progress-bar.dev/3/?scale=13&title=progress&width=500&color=babaca&suffix=/13)
+![100%](https://progress-bar.dev/0/?scale=13&title=progress&width=500&color=babaca&suffix=/13)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/9562)
 
@@ -401,7 +399,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 # 트리
 
-![100%](https://progress-bar.dev/2/?scale=13&title=progress&width=500&color=babaca&suffix=/13)
+![100%](https://progress-bar.dev/0/?scale=13&title=progress&width=500&color=babaca&suffix=/13)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/9657)
 
@@ -423,7 +421,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 # 위상 정렬
 
-![100%](https://progress-bar.dev/1/?scale=7&title=progress&width=500&color=babaca&suffix=/7)
+![100%](https://progress-bar.dev/0/?scale=7&title=progress&width=500&color=babaca&suffix=/7)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/9738)
 
@@ -439,7 +437,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 # 최소 신장 트리
 
-![100%](https://progress-bar.dev/2/?scale=9&title=progress&width=500&color=babaca&suffix=/9)
+![100%](https://progress-bar.dev/0/?scale=9&title=progress&width=500&color=babaca&suffix=/9)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/9907)
 
@@ -457,7 +455,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 # 플로이드 알고리즘
 
-![100%](https://progress-bar.dev/2/?scale=15&title=progress&width=500&color=babaca&suffix=/15)
+![100%](https://progress-bar.dev/0/?scale=15&title=progress&width=500&color=babaca&suffix=/15)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/10318)
 
@@ -481,7 +479,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 # 다익스트라 알고리즘
 
-![100%](https://progress-bar.dev/2/?scale=14&title=progress&width=500&color=babaca&suffix=/14)
+![100%](https://progress-bar.dev/0/?scale=14&title=progress&width=500&color=babaca&suffix=/14)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/10433)
 
