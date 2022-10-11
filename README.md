@@ -13,7 +13,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 # BFS
 
-![100%](https://progress-bar.dev/1/?scale=30&title=progress&width=500&color=babaca&suffix=/30)
+![100%](https://progress-bar.dev/2/?scale=30&title=progress&width=500&color=babaca&suffix=/30)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7313)
 
@@ -24,7 +24,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 | 연습 문제 | 7576 | [토마토](https://www.acmicpc.net/problem/7576) | [정답 코드](../0x09/solutions/7576.cpp) |
 | 연습 문제 | 4179 | [불!](https://www.acmicpc.net/problem/4179) | [정답 코드](../0x09/solutions/4179.cpp) |
 | 연습 문제 | 1697 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | [정답 코드](../0x09/solutions/1697.cpp) |
-| 기본 문제✔ | 1012 | [유기농 배추](https://www.acmicpc.net/problem/1012) | [정답 코드](../0x09/solutions/1012.cpp) |
+| 기본 문제✔ | 1012 | [유기농 배추](https://www.acmicpc.net/problem/1012) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/BFS/BOJ%201012%20%EA%B8%B0%EB%B3%B8%EB%AC%B8%EC%A0%9C.cpp) |
 | 기본 문제✔ | 10026 | [적록색약](https://www.acmicpc.net/problem/10026) | [정답 코드](../0x09/solutions/10026.cpp) |
 | 기본 문제✔ | 7569 | [토마토](https://www.acmicpc.net/problem/7569) | [정답 코드](../0x09/solutions/7569.cpp) |
 | 기본 문제✔ | 7562 | [나이트의 이동](https://www.acmicpc.net/problem/7562) | [정답 코드](../0x09/solutions/7562.cpp) |
