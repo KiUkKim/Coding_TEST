@@ -1,17 +1,25 @@
 # 알고리즘 문제집 링크
 
+
+해당 템플릿은 GyeongHoKim님의 github [https://github.com/GyeongHoKim/algorithm/tree/main/contents/BFS]에서 가져왔음을 알립니다.
+
 https://github.com/encrypted-def/basic-algo-lecture  
 [유튜브에 바킹독 채널](https://www.youtube.com/c/BaaarkingDog)에 강의도 있음.  
 
+공부 계획
+
+- BFS - 재귀 - 백트래킹 - 시뮬 - 정렬1 - 정렬2 - dp - 그리디 - 이분탐색- 투포인터 - 해쉬 순으로 진행합니다.
+- 하루에 최소 2문제를 목표로 합니다. (연습 + 기본)
+
 # BFS
 
-![100%](https://progress-bar.dev/0/?scale=30&title=progress&width=500&color=babaca&suffix=/30)
+![100%](https://progress-bar.dev/1/?scale=30&title=progress&width=500&color=babaca&suffix=/30)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7313)
 
 | 문제 분류 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
-| 연습 문제 | 1926 | [그림](https://www.acmicpc.net/problem/1926) | [정답 코드](../0x09/solutions/1926.cpp) |
+| 연습 문제 | 1926 | [그림](https://www.acmicpc.net/problem/1926) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/BFS/BOJ_1926.cpp) |
 | 연습 문제 | 2178 | [미로 탐색](https://www.acmicpc.net/problem/2178) | [정답 코드](../0x09/solutions/2178.cpp) |
 | 연습 문제 | 7576 | [토마토](https://www.acmicpc.net/problem/7576) | [정답 코드](../0x09/solutions/7576.cpp) |
 | 연습 문제 | 4179 | [불!](https://www.acmicpc.net/problem/4179) | [정답 코드](../0x09/solutions/4179.cpp) |
