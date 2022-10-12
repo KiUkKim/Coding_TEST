@@ -52,7 +52,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 # 재귀
 
-![100%](https://progress-bar.dev/2/?scale=10&title=progress&width=500&color=babaca&suffix=/10)
+![100%](https://progress-bar.dev/3/?scale=10&title=progress&width=500&color=babaca&suffix=/10)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7314)
 
@@ -65,7 +65,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 | 기본 문제 | 1780 | [종이의 개수](https://www.acmicpc.net/problem/1780) | [정답 코드](../0x0B/solutions/1780.cpp) |
 | 기본 문제 | 2630 | [색종이 만들기](https://www.acmicpc.net/problem/2630) | [정답 코드](../0x0B/solutions/2630.cpp) |
 | 기본 문제 | 1992 | [쿼드트리](https://www.acmicpc.net/problem/1992) | [정답 코드](../0x0B/solutions/1992.cpp) |
-| 응용 문제 | 2447 | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) | [정답 코드](../0x0B/solutions/2447.cpp), [별해 1](../0x0B/solutions/2447_1.cpp) |
+| 응용 문제✔ | 2447 | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/Recursive/BOJ%202447%20G5%20Recursive%20%EC%9D%91%EC%9A%A9.cpp), [별해 1](../0x0B/solutions/2447_1.cpp) |
 | 응용 문제 | 2448 | [별 찍기 - 11](https://www.acmicpc.net/problem/2448) | [정답 코드](../0x0B/solutions/2448.cpp) |
 | 응용 문제 | 14956 | [Philosopher’s Walk](https://www.acmicpc.net/problem/14956) | [정답 코드](../0x0B/solutions/14956.cpp) |
 
