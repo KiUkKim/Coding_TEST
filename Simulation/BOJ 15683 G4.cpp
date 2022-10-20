@@ -59,54 +59,6 @@ void update(int dir, CCTV cctv)
 			Area[y][cctv.x] = -1;
 		}
 	}
-    // dir = (dir % 4);
-    
-    // // 우
-    // if(dir == 0)
-    // {
-    //     for(int x = cctv.x + 1; x < M; ++x)
-    //     {
-    //         if(Area[cctv.y][x] == 6)
-    //             break;
-    //         Area[cctv.y][x] = -1;
-    //     }
-    // }
-
-    // // 상
-    // if(dir == 1)
-    // {
-    //     for(int y = cctv.y - 1; y >= 0; --y)
-    //     {
-    //         if(Area[y][cctv.x] == 6)
-    //             break;
-    //         Area[y][cctv.x] = -1;
-    //     }
-    // }
-
-    // // 하
-    // if(dir == 2)
-    // {        
-    //     for(int x = cctv.x - 1; x >= 0; --x)
-    //     {
-    //         if(Area[cctv.y][x] == 6)
-    //             break;
-    //         Area[cctv.y][x] = -1;
-    //     }
-    // }
-    
-
-    // //좌
-    // if(dir == 3)
-    // {
-    //     for(int y = cctv.y + 1; y < M; ++y)
-    //     {
-    //         if(Area[y][cctv.x] == 6)
-    //             break;
-    //         Area[y][cctv.x] = -1;
-    //     }
-    // }
-    
-
 }
 
 // DFS로 구현
