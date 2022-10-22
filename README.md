@@ -78,16 +78,16 @@ https://github.com/encrypted-def/basic-algo-lecture
 | 문제 분류 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
 | 연습 문제 | 15649✔ | [N과 M (1)](https://www.acmicpc.net/problem/15649) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/BackTracking/BOJ%2015649%20S3%20%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9%20%EC%97%B0%EC%8A%B5.cpp) |
-| 연습 문제 | 9663 | [N-Queen](https://www.acmicpc.net/problem/9663) | [정답 코드](../0x0C/solutions/9663.cpp) |
-| 연습 문제 | 1182 | [부분수열의 합](https://www.acmicpc.net/problem/1182) | [정답 코드](../0x0C/solutions/1182.cpp) |
-| 기본 문제 | 15650 | [N과 M (2)](https://www.acmicpc.net/problem/15650) | [정답 코드](../0x0C/solutions/15650.cpp), [별해 1](../0x0C/solutions/15650_1.cpp) |
+| 연습 문제 | 9663✔ | [N-Queen](https://www.acmicpc.net/problem/9663) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/BackTracking/BOJ%209663%20N-Queen%20G4.cpp) |
+| 연습 문제 | 1182✔ | [부분수열의 합](https://www.acmicpc.net/problem/1182) | [정답 코드](../0x0C/solutions/1182.cpp) |
+| 기본 문제 | 15650✔ | [N과 M (2)](https://www.acmicpc.net/problem/15650) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/BackTracking/BOJ%2015650%20N%EA%B3%BC%20M2%20S3.cpp), [별해 1](../0x0C/solutions/15650_1.cpp) |
 | 기본 문제 | 15651 | [N과 M (3)](https://www.acmicpc.net/problem/15651) | [정답 코드](../0x0C/solutions/15651.cpp) |
 | 기본 문제 | 15652 | [N과 M (4)](https://www.acmicpc.net/problem/15652) | [정답 코드](../0x0C/solutions/15652.cpp) |
-| 기본 문제 | 15654 | [N과 M (5)](https://www.acmicpc.net/problem/15654) | [정답 코드](../0x0C/solutions/15654.cpp) |
-| 기본 문제 | 15655 | [N과 M (6)](https://www.acmicpc.net/problem/15655) | [정답 코드](../0x0C/solutions/15655.cpp) |
-| 기본 문제 | 15656 | [N과 M (7)](https://www.acmicpc.net/problem/15656) | [정답 코드](../0x0C/solutions/15656.cpp) |
-| 기본 문제 | 15657 | [N과 M (8)](https://www.acmicpc.net/problem/15657) | [정답 코드](../0x0C/solutions/15657.cpp) |
-| 기본 문제 | 15663 | [N과 M (9)](https://www.acmicpc.net/problem/15663) | [정답 코드](../0x0C/solutions/15663.cpp) |
+| 기본 문제 | 15654✔ | [N과 M (5)](https://www.acmicpc.net/problem/15654) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/BackTracking/BOJ%2015654%20S3%20NM_5%20S3.cpp) |
+| 기본 문제 | 15655✔ | [N과 M (6)](https://www.acmicpc.net/problem/15655) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/BackTracking/BOJ%2015655%20N_M%206%20S3.cpp) |
+| 기본 문제 | 15656✔ | [N과 M (7)](https://www.acmicpc.net/problem/15656) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/BackTracking/BOJ%201565%20N_M%207%20S3.cpp) |
+| 기본 문제 | 15657✔ | [N과 M (8)](https://www.acmicpc.net/problem/15657) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/BackTracking/BOJ%2015657%20N_M%208%20S3.cpp) |
+| 기본 문제 | 15663✔ | [N과 M (9)](https://www.acmicpc.net/problem/15663) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/BackTracking/BOJ%2015663%20N_M%209%20S2.cpp) |
 | 기본 문제 | 15664 | [N과 M (10)](https://www.acmicpc.net/problem/15664) | [정답 코드](../0x0C/solutions/15664.cpp) |
 | 기본 문제 | 15665 | [N과 M (11)](https://www.acmicpc.net/problem/15665) | [정답 코드](../0x0C/solutions/15665.cpp) |
 | 기본 문제 | 15666 | [N과 M (12)](https://www.acmicpc.net/problem/15666) | [정답 코드](../0x0C/solutions/15666.cpp) |
