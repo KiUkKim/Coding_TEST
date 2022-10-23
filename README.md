@@ -88,10 +88,10 @@ https://github.com/encrypted-def/basic-algo-lecture
 | 기본 문제 | 15656✔ | [N과 M (7)](https://www.acmicpc.net/problem/15656) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/BackTracking/BOJ%201565%20N_M%207%20S3.cpp) |
 | 기본 문제 | 15657✔ | [N과 M (8)](https://www.acmicpc.net/problem/15657) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/BackTracking/BOJ%2015657%20N_M%208%20S3.cpp) |
 | 기본 문제 | 15663✔ | [N과 M (9)](https://www.acmicpc.net/problem/15663) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/BackTracking/BOJ%2015663%20N_M%209%20S2.cpp) |
-| 기본 문제 | 15664 | [N과 M (10)](https://www.acmicpc.net/problem/15664) | [정답 코드](../0x0C/solutions/15664.cpp) |
-| 기본 문제 | 15665 | [N과 M (11)](https://www.acmicpc.net/problem/15665) | [정답 코드](../0x0C/solutions/15665.cpp) |
-| 기본 문제 | 15666 | [N과 M (12)](https://www.acmicpc.net/problem/15666) | [정답 코드](../0x0C/solutions/15666.cpp) |
-| 기본 문제 | 6603 | [로또](https://www.acmicpc.net/problem/6603) | [정답 코드](../0x0C/solutions/6603.cpp), [별해 1](../0x0C/solutions/6603_1.cpp) |
+| 기본 문제 | 15664✔ | [N과 M (10)](https://www.acmicpc.net/problem/15664) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/BackTracking/BOJ%2015664%20N_M%2010%20S2.cpp) |
+| 기본 문제 | 15665✔ | [N과 M (11)](https://www.acmicpc.net/problem/15665) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/commit/bbf72d6d1013e29dcbfc6ae756237a6730b69f2a) |
+| 기본 문제 | 15666✔ | [N과 M (12)](https://www.acmicpc.net/problem/15666) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/BackTracking/BOJ%2015666%20N_M%2012%20S2.cpp) |
+| 기본 문제 | 6603✔ | [로또](https://www.acmicpc.net/problem/6603) | [정답 코드](../0x0C/solutions/6603.cpp), [별해 1](../0x0C/solutions/6603_1.cpp) |
 | 기본 문제 | 1759 | [암호 만들기](https://www.acmicpc.net/problem/1759) | [정답 코드](../0x0C/solutions/1759.cpp), [별해 1](../0x0C/solutions/1759_1.cpp) |
 | 응용 문제 | 1941 | [소문난 칠공주](https://www.acmicpc.net/problem/1941) | [정답 코드](../0x0C/solutions/1941.cpp) |
 | 응용 문제 | 16987 | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) | [정답 코드](../0x0C/solutions/16987.cpp) |
