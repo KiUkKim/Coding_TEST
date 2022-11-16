@@ -6,6 +6,7 @@
 #include <algorithm>
 #include <math.h>
 #include <limits.h>
+
 using namespace std;
 
 int n;
