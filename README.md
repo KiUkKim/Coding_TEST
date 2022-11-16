@@ -100,7 +100,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 # 시뮬레이션
 
-![100%](https://progress-bar.dev/0/?scale=60&title=progress&width=500&color=babaca&suffix=/60)
+![100%](https://progress-bar.dev/1/?scale=60&title=progress&width=500&color=babaca&suffix=/60)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7316)
 
@@ -169,13 +169,13 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 # 정렬 I
 
-![100%](https://progress-bar.dev/0/?scale=8&title=progress&width=500&color=babaca&suffix=/8)
+![100%](https://progress-bar.dev/1/?scale=8&title=progress&width=500&color=babaca&suffix=/8)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7317)
 
 | 문제 분류 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
-| 기본 문제 | 2750 | [수 정렬하기](https://www.acmicpc.net/problem/2750) | [정답 코드](../0x0E/solutions/2750.cpp) |
+| 기본 문제 | 2750✔ | [수 정렬하기](https://www.acmicpc.net/problem/2750) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/Sorting/BOJ%202750%20%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%20S2.cpp) |
 | 기본 문제 | 2751 | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | [정답 코드](../0x0E/solutions/2751.cpp) |
 | 기본 문제 | 10989 | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) | [정답 코드](../0x0E/solutions/10989.cpp) |
 | 기본 문제 | 11931 | [수 정렬하기 4](https://www.acmicpc.net/problem/11931) | [정답 코드](../0x0E/solutions/11931.cpp) |
@@ -186,25 +186,25 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 # 정렬 II
 
-![100%](https://progress-bar.dev/9/?scale=9&title=progress&width=500&color=babaca&suffix=/9)
+![100%](https://progress-bar.dev/5/?scale=9&title=progress&width=500&color=babaca&suffix=/9)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7318)
 
 | 문제 분류 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
-| 연습 문제 | 1431 | [시리얼 번호](https://www.acmicpc.net/problem/1431) | [정답 코드](../0x0F/solutions/1431.cpp) |
-| 연습 문제 | 11652 | [카드](https://www.acmicpc.net/problem/11652) | [정답 코드](../0x0F/solutions/11652.cpp) |
-| 기본 문제 | 5648 | [역원소 정렬](https://www.acmicpc.net/problem/5648) | [정답 코드](../0x0F/solutions/5648.cpp) |
+| 연습 문제 | 1431✔ | [시리얼 번호](https://www.acmicpc.net/problem/1431) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/Sorting%20II/BOJ%201431%20%EC%8B%9C%EB%A6%AC%EC%96%BC%EB%B2%88%ED%98%B8%20S3.cpp) |
+| 연습 문제 | 11652✔ | [카드](https://www.acmicpc.net/problem/11652) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/Sorting%20II/BOJ%2011652%20%EC%B9%B4%EB%93%9C%20S4.cpp) |
+| 기본 문제 | 5648✔ | [역원소 정렬](https://www.acmicpc.net/problem/5648) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/Sorting%20II/BOJ%205648%20%EC%97%AD%EC%9B%90%EC%86%8C%EC%A0%95%EB%A0%AC%20S3.cpp) |
 | 기본 문제 | 1181 | [단어 정렬](https://www.acmicpc.net/problem/1181) | [정답 코드](../0x0F/solutions/1181.cpp) |
-| 기본 문제 | 2910 | [빈도 정렬](https://www.acmicpc.net/problem/2910) | [정답 코드](../0x0F/solutions/2910.cpp) |
+| 기본 문제 | 2910✔ | [빈도 정렬](https://www.acmicpc.net/problem/2910) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/Sorting%20II/BOJ%202910%20%EB%B9%88%EB%8F%84%EC%A0%95%EB%A0%AC%20S3.cpp) |
 | 기본 문제 | 10814 | [나이순 정렬](https://www.acmicpc.net/problem/10814) | [정답 코드](../0x0F/solutions/10814.cpp) |
-| 기본 문제 | 11656 | [접미사 배열](https://www.acmicpc.net/problem/11656) | [정답 코드](../0x0F/solutions/11656.cpp) |
+| 기본 문제 | 11656✔ | [접미사 배열](https://www.acmicpc.net/problem/11656) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/Sorting%20II/BOJ%2011656%20%EC%A0%91%EB%AF%B8%EC%82%AC%20%EB%B0%B0%EC%97%B4%20S4.cpp) |
 | 기본 문제 | 10825 | [국영수](https://www.acmicpc.net/problem/10825) | [정답 코드](../0x0F/solutions/10825.cpp) |
 | 응용 문제 | 7795 | [먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795) | [정답 코드](../0x0F/solutions/7795.cpp), [별해 1](../0x0F/solutions/7795_1.cpp) |
 
 # 다이나믹 프로그래밍
 
-![100%](https://progress-bar.dev/0/?scale=44&title=progress&width=500&color=babaca&suffix=/44)
+![100%](https://progress-bar.dev/5/?scale=44&title=progress&width=500&color=babaca&suffix=/44)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7319)
 
@@ -220,9 +220,9 @@ https://github.com/encrypted-def/basic-algo-lecture
 | 기본 문제 | 1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | [정답 코드](../0x10/solutions/1003.cpp) |
 | 기본 문제 | 1932 | [정수 삼각형](https://www.acmicpc.net/problem/1932) | [정답 코드](../0x10/solutions/1932.cpp) |
 | 기본 문제 | 11727 | [2×n 타일링 2](https://www.acmicpc.net/problem/11727) | [정답 코드](../0x10/solutions/11727.cpp) |
-| 기본 문제 | 2193✔ | [이친수](https://www.acmicpc.net/problem/2193) | [정답 코드](../0x10/solutions/2193.cpp) |
+| 기본 문제 | 2193✔ | [이친수](https://www.acmicpc.net/problem/2193) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/DynamicPrograming/BOJ%202193%20%EC%9D%B4%EC%B9%9C%EC%88%98%20S3.cpp) |
 | 기본 문제 | 1912 | [연속합](https://www.acmicpc.net/problem/1912) | [정답 코드](../0x10/solutions/1912.cpp) |
-| 기본 문제 | 11055✔ | [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055) | [정답 코드](../0x10/solutions/11055.cpp) |
+| 기본 문제 | 11055✔ | [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/DynamicPrograming/BOJ%2011055%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EB%B6%80%EB%B6%84%20%EC%A6%9D%EA%B0%80%EC%88%98%EC%97%B4%20S2.cpp) |
 | 기본 문제 | 11053 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | [정답 코드](../0x10/solutions/11053.cpp) |
 | 기본 문제 | 9461 | [파도반 수열](https://www.acmicpc.net/problem/9461) | [정답 코드](../0x10/solutions/9461.cpp) |
 | 기본 문제 | 14501 | [퇴사](https://www.acmicpc.net/problem/14501) | [정답 코드](../0x10/solutions/14501.cpp), [별해 1](../0x10/solutions/14501_1.cpp) |
