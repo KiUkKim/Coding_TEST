@@ -71,7 +71,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 # 백트래킹
 
-![100%](https://progress-bar.dev/0/?scale=20&title=progress&width=500&color=babaca&suffix=/20)
+![100%](https://progress-bar.dev/12/?scale=20&title=progress&width=500&color=babaca&suffix=/20)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7315)
 
@@ -91,7 +91,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 | 기본 문제 | 15664✔ | [N과 M (10)](https://www.acmicpc.net/problem/15664) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/BackTracking/BOJ%2015664%20N_M%2010%20S2.cpp) |
 | 기본 문제 | 15665✔ | [N과 M (11)](https://www.acmicpc.net/problem/15665) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/commit/bbf72d6d1013e29dcbfc6ae756237a6730b69f2a) |
 | 기본 문제 | 15666✔ | [N과 M (12)](https://www.acmicpc.net/problem/15666) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/BackTracking/BOJ%2015666%20N_M%2012%20S2.cpp) |
-| 기본 문제 | 6603✔ | [로또](https://www.acmicpc.net/problem/6603) | [정답 코드](../0x0C/solutions/6603.cpp), [별해 1](../0x0C/solutions/6603_1.cpp) |
+| 기본 문제 | 6603 | [로또](https://www.acmicpc.net/problem/6603) | [정답 코드](../0x0C/solutions/6603.cpp), [별해 1](../0x0C/solutions/6603_1.cpp) |
 | 기본 문제 | 1759 | [암호 만들기](https://www.acmicpc.net/problem/1759) | [정답 코드](../0x0C/solutions/1759.cpp), [별해 1](../0x0C/solutions/1759_1.cpp) |
 | 응용 문제 | 1941 | [소문난 칠공주](https://www.acmicpc.net/problem/1941) | [정답 코드](../0x0C/solutions/1941.cpp) |
 | 응용 문제 | 16987 | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) | [정답 코드](../0x0C/solutions/16987.cpp) |
@@ -213,16 +213,16 @@ https://github.com/encrypted-def/basic-algo-lecture
 | 연습 문제 | 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | [정답 코드](../0x10/solutions/1463.cpp) |
 | 연습 문제 | 9095 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | [정답 코드](../0x10/solutions/9095.cpp) |
 | 연습 문제 | 2579 | [계단 오르기](https://www.acmicpc.net/problem/2579) | [정답 코드](../0x10/solutions/2579.cpp), [별해 1](../0x10/solutions/2579_1.cpp), [별해 2](../0x10/solutions/2579_2.cpp) |
-| 연습 문제 | 1149 | [RGB거리](https://www.acmicpc.net/problem/1149) | [정답 코드](../0x10/solutions/1149.cpp) |
+| 연습 문제 | 1149✔ | [RGB거리](https://www.acmicpc.net/problem/1149) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/DynamicPrograming/BOJ%201149%20RGB%EA%B1%B0%EB%A6%AC%20S1.cpp) |
 | 연습 문제 | 11726 | [2×n 타일링](https://www.acmicpc.net/problem/11726) | [정답 코드](../0x10/solutions/11726.cpp) |
-| 연습 문제 | 11659 | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [정답 코드](../0x10/solutions/11659.cpp) |
-| 연습 문제 | 12852 | [1로 만들기 2](https://www.acmicpc.net/problem/12852) | [정답 코드](../0x10/solutions/12852.cpp) |
+| 연습 문제 | 11659✔ | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/DynamicPrograming/BOJ%201149%20RGB%EA%B1%B0%EB%A6%AC%20S1.cpp) |
+| 연습 문제 | 12852✔ | [1로 만들기 2](https://www.acmicpc.net/problem/12852) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/DynamicPrograming/BOJ%2012852%201%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0%202%20S1.cpp) |
 | 기본 문제 | 1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | [정답 코드](../0x10/solutions/1003.cpp) |
 | 기본 문제 | 1932 | [정수 삼각형](https://www.acmicpc.net/problem/1932) | [정답 코드](../0x10/solutions/1932.cpp) |
 | 기본 문제 | 11727 | [2×n 타일링 2](https://www.acmicpc.net/problem/11727) | [정답 코드](../0x10/solutions/11727.cpp) |
-| 기본 문제 | 2193 | [이친수](https://www.acmicpc.net/problem/2193) | [정답 코드](../0x10/solutions/2193.cpp) |
+| 기본 문제 | 2193✔ | [이친수](https://www.acmicpc.net/problem/2193) | [정답 코드](../0x10/solutions/2193.cpp) |
 | 기본 문제 | 1912 | [연속합](https://www.acmicpc.net/problem/1912) | [정답 코드](../0x10/solutions/1912.cpp) |
-| 기본 문제 | 11055 | [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055) | [정답 코드](../0x10/solutions/11055.cpp) |
+| 기본 문제 | 11055✔ | [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055) | [정답 코드](../0x10/solutions/11055.cpp) |
 | 기본 문제 | 11053 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | [정답 코드](../0x10/solutions/11053.cpp) |
 | 기본 문제 | 9461 | [파도반 수열](https://www.acmicpc.net/problem/9461) | [정답 코드](../0x10/solutions/9461.cpp) |
 | 기본 문제 | 14501 | [퇴사](https://www.acmicpc.net/problem/14501) | [정답 코드](../0x10/solutions/14501.cpp), [별해 1](../0x10/solutions/14501_1.cpp) |
