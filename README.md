@@ -257,20 +257,20 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 # 그리디
 
-![100%](https://progress-bar.dev/0/?scale=17&title=progress&width=500&color=babaca&suffix=/17)
+![100%](https://progress-bar.dev/5/?scale=17&title=progress&width=500&color=babaca&suffix=/17)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7320)
 
 | 문제 분류 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
-| 연습 문제 | 11047 | [동전 0](https://www.acmicpc.net/problem/11047) | [정답 코드](../0x11/solutions/11047.cpp) |
-| 연습 문제 | 1931 | [회의실 배정](https://www.acmicpc.net/problem/1931) | [정답 코드](../0x11/solutions/1931.cpp) |
-| 연습 문제 | 2217 | [로프](https://www.acmicpc.net/problem/2217) | [정답 코드](../0x11/solutions/2217.cpp) |
+| 연습 문제 | 11047✔ | [동전 0](https://www.acmicpc.net/problem/11047) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/Greedy/BOJ%2011047%20%EB%8F%99%EC%A0%84%20O%20S4.cpp) |
+| 연습 문제 | 1931✔ | [회의실 배정](https://www.acmicpc.net/problem/1931) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/Greedy/BOJ%201931%20%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95%20S1.cpp) |
+| 연습 문제 | 2217✔ | [로프](https://www.acmicpc.net/problem/2217) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/Greedy/BOJ%202217%20%EB%A1%9C%ED%94%84%20S4.cpp) |
 | 연습 문제 | 1026 | [보물](https://www.acmicpc.net/problem/1026) | [정답 코드](../0x11/solutions/1026.cpp) |
 | 기본 문제 | 11399 | [ATM](https://www.acmicpc.net/problem/11399) | [정답 코드](../0x11/solutions/11399.cpp) |
-| 기본 문제 | 2457 | [공주님의 정원](https://www.acmicpc.net/problem/2457) | [정답 코드](../0x11/solutions/2457.cpp) |
+| 기본 문제 | 2457✔ | [공주님의 정원](https://www.acmicpc.net/problem/2457) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/Greedy/BOJ%202457%20%EA%B3%B5%EC%A3%BC%EB%8B%98%EC%9D%98%20%EC%A0%95%EC%9B%90%20G3.cpp) |
 | 기본 문제 | 1541 | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [정답 코드](../0x11/solutions/1541.cpp) |
-| 기본 문제 | 11501 | [주식](https://www.acmicpc.net/problem/11501) | [정답 코드](../0x11/solutions/11501.cpp) |
+| 기본 문제 | 11501✔ | [주식](https://www.acmicpc.net/problem/11501) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/Greedy/BOJ%2011501%20%EC%A3%BC%EC%8B%9D%20S2.cpp) |
 | 기본 문제 | 1744 | [수 묶기](https://www.acmicpc.net/problem/1744) | [정답 코드](../0x11/solutions/1744.cpp) |
 | 기본 문제 | 2847 | [게임을 만든 동준이](https://www.acmicpc.net/problem/2847) | [정답 코드](../0x11/solutions/2847.cpp) |
 | 기본 문제 | 1439 | [뒤집기](https://www.acmicpc.net/problem/1439) | [정답 코드](../0x11/solutions/1439.cpp) |
