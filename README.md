@@ -11,6 +11,8 @@ https://github.com/encrypted-def/basic-algo-lecture
 - BFS - 재귀 - 백트래킹 - 시뮬 - 정렬1 - 정렬2 - dp - 그리디 - 이분탐색- 투포인터 - 해쉬 순으로 진행합니다.
 - 하루에 최소 2문제를 목표로 합니다. (연습 + 기본)
 
+* 현재 정답코드는 체크 표시된 부분만 링크가 가능합니다. 이외의 곳은 참조 불가합니다. *
+
 # BFS
 
 ![100%](https://progress-bar.dev/3/?scale=30&title=progress&width=500&color=babaca&suffix=/30)
@@ -257,7 +259,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 # 그리디
 
-![100%](https://progress-bar.dev/5/?scale=17&title=progress&width=500&color=babaca&suffix=/17)
+![100%](https://progress-bar.dev/6/?scale=17&title=progress&width=500&color=babaca&suffix=/17)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7320)
 
@@ -271,7 +273,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 | 기본 문제 | 2457✔ | [공주님의 정원](https://www.acmicpc.net/problem/2457) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/Greedy/BOJ%202457%20%EA%B3%B5%EC%A3%BC%EB%8B%98%EC%9D%98%20%EC%A0%95%EC%9B%90%20G3.cpp) |
 | 기본 문제 | 1541 | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [정답 코드](../0x11/solutions/1541.cpp) |
 | 기본 문제 | 11501✔ | [주식](https://www.acmicpc.net/problem/11501) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/Greedy/BOJ%2011501%20%EC%A3%BC%EC%8B%9D%20S2.cpp) |
-| 기본 문제 | 1744 | [수 묶기](https://www.acmicpc.net/problem/1744) | [정답 코드](../0x11/solutions/1744.cpp) |
+| 기본 문제 | 1744✔ | [수 묶기](https://www.acmicpc.net/problem/1744) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/Greedy/BOJ%201744%20G4.cpp) |
 | 기본 문제 | 2847 | [게임을 만든 동준이](https://www.acmicpc.net/problem/2847) | [정답 코드](../0x11/solutions/2847.cpp) |
 | 기본 문제 | 1439 | [뒤집기](https://www.acmicpc.net/problem/1439) | [정답 코드](../0x11/solutions/1439.cpp) |
 | 기본 문제 | 11000 | [강의실 배정](https://www.acmicpc.net/problem/11000) | [정답 코드](../0x11/solutions/11000.cpp), [별해 1](../0x11/solutions/11000_1.cpp) |
@@ -283,7 +285,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 # 이분탐색
 
-![100%](https://progress-bar.dev/0/?scale=21&title=progress&width=500&color=babaca&suffix=/21)
+![100%](https://progress-bar.dev/1/?scale=21&title=progress&width=500&color=babaca&suffix=/21)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/8400)
 
@@ -291,7 +293,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 | :--: | :--: | :--: | :--: |
 | 연습 문제 | 1920 | [수 찾기](https://www.acmicpc.net/problem/1920) | [정답 코드](../0x13/solutions/1920.cpp), [별해 1](../0x13/solutions/1920_1.cpp) |
 | 연습 문제 | 10816 | [숫자 카드 2](https://www.acmicpc.net/problem/10816) | [정답 코드](../0x13/solutions/10816.cpp), [별해 1](../0x13/solutions/10816_1.cpp) |
-| 연습 문제 | 18870 | [좌표 압축](https://www.acmicpc.net/problem/18870) | [정답 코드](../0x13/solutions/18870.cpp), [별해 1](../0x13/solutions/18870_1.cpp) |
+| 연습 문제 | 18870✔ | [좌표 압축](https://www.acmicpc.net/problem/18870) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/Binary_Search/BOJ%2018870%20%EC%A2%8C%ED%91%9C%EC%95%95%EC%B6%95%20S2.cpp), [별해 1](https://github.com/KiUkKim/Coding_TEST/blob/main/Binary_Search/BOJ%2018870%20%EC%A2%8C%ED%91%9C%EC%95%95%EC%B6%95%20lower_bound%EC%82%AC%EC%9A%A9%20S2.cpp) |
 | 연습 문제 | 2295 | [세 수의 합](https://www.acmicpc.net/problem/2295) | [정답 코드](../0x13/solutions/2295.cpp) |
 | 연습 문제 | 1654 | [랜선 자르기](https://www.acmicpc.net/problem/1654) | [정답 코드](../0x13/solutions/1654.cpp) |
 | 기본 문제 | 10815 | [숫자 카드](https://www.acmicpc.net/problem/10815) | [정답 코드](../0x13/solutions/10815.cpp) |
