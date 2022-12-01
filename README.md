@@ -294,11 +294,11 @@ https://github.com/encrypted-def/basic-algo-lecture
 | 연습 문제 | 1920 | [수 찾기](https://www.acmicpc.net/problem/1920) | [정답 코드](../0x13/solutions/1920.cpp), [별해 1](../0x13/solutions/1920_1.cpp) |
 | 연습 문제 | 10816 | [숫자 카드 2](https://www.acmicpc.net/problem/10816) | [정답 코드](../0x13/solutions/10816.cpp), [별해 1](../0x13/solutions/10816_1.cpp) |
 | 연습 문제 | 18870✔ | [좌표 압축](https://www.acmicpc.net/problem/18870) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/Binary_Search/BOJ%2018870%20%EC%A2%8C%ED%91%9C%EC%95%95%EC%B6%95%20S2.cpp), [별해 1](https://github.com/KiUkKim/Coding_TEST/blob/main/Binary_Search/BOJ%2018870%20%EC%A2%8C%ED%91%9C%EC%95%95%EC%B6%95%20lower_bound%EC%82%AC%EC%9A%A9%20S2.cpp) |
-| 연습 문제 | 2295 | [세 수의 합](https://www.acmicpc.net/problem/2295) | [정답 코드](../0x13/solutions/2295.cpp) |
+| 연습 문제 | 2295✔ | [세 수의 합](https://www.acmicpc.net/problem/2295) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/Binary_Search/BOJ%202295%20%EC%84%B8%20%EC%88%98%EC%9D%98%20%ED%95%A9%20G4.cpp) |
 | 연습 문제 | 1654 | [랜선 자르기](https://www.acmicpc.net/problem/1654) | [정답 코드](../0x13/solutions/1654.cpp) |
 | 기본 문제 | 10815 | [숫자 카드](https://www.acmicpc.net/problem/10815) | [정답 코드](../0x13/solutions/10815.cpp) |
-| 기본 문제 | 1822 | [차집합](https://www.acmicpc.net/problem/1822) | [정답 코드](../0x13/solutions/1822.cpp) |
-| 기본 문제 | 16401 | [과자 나눠주기](https://www.acmicpc.net/problem/16401) | [정답 코드](../0x13/solutions/16401.cpp) |
+| 기본 문제 | 1822✔ | [차집합](https://www.acmicpc.net/problem/1822) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/Binary_Search/BOJ%201822%20%EC%B0%A8%EC%A7%91%ED%95%A9%20S4.cpp) |
+| 기본 문제 | 16401✔ | [과자 나눠주기](https://www.acmicpc.net/problem/16401) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/Binary_Search/BOJ%2016401%20S2%20%EA%B3%BC%EC%9E%90%20%EB%82%98%EB%88%A0%EC%A3%BC%EA%B8%B0.cpp) |
 | 기본 문제 | 2805 | [나무 자르기](https://www.acmicpc.net/problem/2805) | [정답 코드](../0x13/solutions/2805.cpp) |
 | 기본 문제 | 18869 | [멀티버스 Ⅱ](https://www.acmicpc.net/problem/18869) | - |
 | 기본 문제 | 2467 | [용액](https://www.acmicpc.net/problem/2467) | [정답 코드](../0x13/solutions/2467.cpp), [별해 1](../0x13/solutions/2467_1.cpp) |
@@ -321,9 +321,9 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 | 문제 분류 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
-| 연습 문제 | 2230 | [수 고르기](https://www.acmicpc.net/problem/2230) | [정답 코드](../0x14/solutions/2230.cpp) |
+| 연습 문제 | 2230✔ | [수 고르기](https://www.acmicpc.net/problem/2230) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/two_pointer/BOJ%202230%20%EC%88%98%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.cpp) |
 | 연습 문제 | 1806 | [부분합](https://www.acmicpc.net/problem/1806) | [정답 코드](../0x14/solutions/1806.cpp) |
-| 기본 문제 | 1644 | [소수의 연속합](https://www.acmicpc.net/problem/1644) | [정답 코드](../0x14/solutions/1644.cpp) |
+| 기본 문제 | 1644✔ | [소수의 연속합](https://www.acmicpc.net/problem/1644) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/two_pointer/BOJ%201644%20%EC%86%8C%EC%88%98%EC%9D%98%20%EC%97%B0%EC%86%8D%ED%95%A9%20G3.cpp) |
 | 기본 문제 | 2003 | [수들의 합 2](https://www.acmicpc.net/problem/2003) | [정답 코드](../0x14/solutions/2003.cpp) |
 | 응용 문제 | 13144 | [List of Unique Numbers](https://www.acmicpc.net/problem/13144) | [정답 코드](../0x14/solutions/13144.cpp) |
 | 응용 문제 | 22862 | [가장 긴 짝수 연속한 부분 수열 (large)](https://www.acmicpc.net/problem/22862) | [정답 코드](../0x14/solutions/22862.cpp) |
