@@ -8,7 +8,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 공부 계획
 
-- BFS - 재귀 - 백트래킹 - 시뮬 - 정렬1 - 정렬2 - dp - 그리디 - 이분탐색- 투포인터 - 해쉬 순으로 진행합니다.
+- BFS - 재귀 - 백트래킹 - 시뮬 - 정렬1 - 정렬2 - dp - 그리디 - 이분탐색- 투포인터 - 해시 순으로 진행합니다.
 - 하루에 최소 2문제를 목표로 합니다. (연습 + 기본)
 
 * 현재 정답코드는 체크 표시된 부분만 링크가 가능합니다. 이외의 곳은 참조 불가합니다. *
@@ -285,7 +285,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 # 이분탐색
 
-![100%](https://progress-bar.dev/1/?scale=21&title=progress&width=500&color=babaca&suffix=/21)
+![100%](https://progress-bar.dev/4/?scale=21&title=progress&width=500&color=babaca&suffix=/21)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/8400)
 
@@ -315,7 +315,7 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 # 투 포인터
 
-![100%](https://progress-bar.dev/0/?scale=11&title=progress&width=500&color=babaca&suffix=/11)
+![100%](https://progress-bar.dev/2/?scale=11&title=progress&width=500&color=babaca&suffix=/11)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/8709)
 
@@ -335,15 +335,15 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 # 해시
 
-![100%](https://progress-bar.dev/0/?scale=10&title=progress&width=500&color=babaca&suffix=/10)
+![100%](https://progress-bar.dev/2/?scale=10&title=progress&width=500&color=babaca&suffix=/10)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/9063)
 
 | 문제 분류 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
-| 연습 문제 | 7785 | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) | [정답 코드](../0x15/solutions/7785.cpp) |
+| 연습 문제 | 7785✔ | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/Hash/BOJ%207785%20%ED%9A%8C%EC%82%AC%EC%97%90%20%EC%9E%88%EB%8A%94%20%EC%82%AC%EB%9E%8C%20S5.cpp) |
 | 연습 문제 | 1620 | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [정답 코드](../0x15/solutions/1620.cpp) |
-| 기본 문제 | 13414 | [수강신청](https://www.acmicpc.net/problem/13414) | [정답 코드](../0x15/solutions/13414.cpp) |
+| 기본 문제 | 13414✔ | [수강신청](https://www.acmicpc.net/problem/13414) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/Hash/BOJ%2013414%20%EC%88%98%EA%B0%95%EC%8B%A0%EC%B2%AD%20S3.cpp) |
 | 기본 문제 | 17219 | [비밀번호 찾기](https://www.acmicpc.net/problem/17219) | [정답 코드](../0x15/solutions/17219.cpp) |
 | 기본 문제 | 9375 | [패션왕 신해빈](https://www.acmicpc.net/problem/9375) | [정답 코드](../0x15/solutions/9375.cpp) |
 | 기본 문제 | 16165 | [걸그룹 마스터 준석이](https://www.acmicpc.net/problem/16165) | [정답 코드](../0x15/solutions/16165.cpp) |
@@ -354,14 +354,14 @@ https://github.com/encrypted-def/basic-algo-lecture
 
 # 이진 검색 트리
 
-![100%](https://progress-bar.dev/0/?scale=7&title=progress&width=500&color=babaca&suffix=/7)
+![100%](https://progress-bar.dev/2/?scale=7&title=progress&width=500&color=babaca&suffix=/7)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/9346)
 
 | 문제 분류 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
-| 연습 문제 | 7662 | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | [정답 코드](../0x16/solutions/7662.cpp) |
-| 연습 문제 | 1202 | [보석 도둑](https://www.acmicpc.net/problem/1202) | [정답 코드](../0x16/solutions/1202.cpp) |
+| 연습 문제 | 7662✔ | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/BinarySearch%20Tree/BOJ%207662%20%EC%9D%B4%EC%A4%91%20%EC%9A%B0%EC%84%A0%20%EC%88%9C%EC%9C%84%20%ED%81%90%20G4.cpp) |
+| 연습 문제 | 1202✔ | [보석 도둑](https://www.acmicpc.net/problem/1202) | [정답 코드](https://github.com/KiUkKim/Coding_TEST/blob/main/BinarySearch%20Tree/BOJ%201202%20%EB%B3%B4%EC%84%9D%EB%8F%84%EB%91%91%20G2.cpp) |
 | 기본 문제 | 21939 | [문제 추천 시스템 Version 1](https://www.acmicpc.net/problem/21939) | [정답 코드](../0x16/solutions/21939.cpp) |
 | 기본 문제 | 23326 | [홍익 투어리스트](https://www.acmicpc.net/problem/23326) | [정답 코드](../0x16/solutions/23326.cpp) |
 | 응용 문제 | 21944 | [문제 추천 시스템 Version 2](https://www.acmicpc.net/problem/21944) | [정답 코드](../0x16/solutions/21944.cpp), [별해 1](../0x16/solutions/21944_1.cpp) |
