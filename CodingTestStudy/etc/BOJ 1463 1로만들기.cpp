@@ -18,6 +18,7 @@ int main()
     cin >> num;
 
     dp[0] = 0;
+    dp[1] = 0;
     dp[2] = 1;
     dp[3] = 1;
 
